@@ -3,3 +3,4 @@ payload:
   - DOMAIN-KEYWORD,chatgpt
   - DOMAIN-KEYWORD,youtube
   - DOMAIN-KEYWORD,netflix
+  - DOMAIN-KEYWORD,googlevideo
