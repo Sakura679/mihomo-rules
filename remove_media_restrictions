@@ -4,3 +4,4 @@ payload:
   - DOMAIN-KEYWORD,youtube
   - DOMAIN-KEYWORD,netflix
   - DOMAIN-KEYWORD,googlevideo
+  - DOMAIN-KEYWORD,bilibili
