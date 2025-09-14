@@ -1,4 +1,8 @@
 payload:
   - DOMAIN-KEYWORD,ntdm
   - DOMAIN-KEYWORD,ryplay
-  - DOMAIN-KEYWORD,bili
+  # bilibili
+  - DOMAIN-KEYWORD,bilibili
+  - DOMAIN-KEYWORD,bilicdn
+  - DOMAIN-KEYWORD,biliapi
+  # 
