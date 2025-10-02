@@ -3,6 +3,6 @@ payload:
   - DOMAIN-KEYWORD,chatgpt
   # - DOMAIN-KEYWORD,netflix
   # youtube
-  - DOMAIN-KEYWORD,youtube
-  - DOMAIN-KEYWORD,googlevideo
+  # - DOMAIN-KEYWORD,youtube
+  # - DOMAIN-KEYWORD,googlevideo
   # 
