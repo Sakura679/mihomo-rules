@@ -1,6 +1,6 @@
 payload:
-  - DOMAIN-KEYWORD,acck
-  - DOMAIN-KEYWORD,akile
+  # - DOMAIN-KEYWORD,acck
+  # - DOMAIN-KEYWORD,akile
   # - DOMAIN-KEYWORD,ryplay
   - DOMAIN-KEYWORD,libretv
   - DOMAIN-KEYWORD,tyys
