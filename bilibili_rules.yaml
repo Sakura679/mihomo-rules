@@ -3,5 +3,6 @@ payload:
   - DOMAIN-KEYWORD,bilibili
   - DOMAIN-KEYWORD,bilicdn
   - DOMAIN-KEYWORD,biliapi
+  - DOMAIN-SUFFIX,akamaized.net
   # bilibili直播
   - DOMAIN-KEYWORD,bilivideo
