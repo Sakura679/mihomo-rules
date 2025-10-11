@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-KEYWORD,tiktok
   - DOMAIN-KEYWORD,chatgpt
+  - DOMAIN-KEYWORD,openai
   - DOMAIN-KEYWORD,netflix
   # youtube
   # - DOMAIN-KEYWORD,youtube
