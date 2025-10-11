@@ -1,4 +1,12 @@
 payload:
   - DOMAIN-KEYWORD,msedge
   - DOMAIN-SUFFIX,microsoft.com
+  # 阻止 PCDN
+  - DOMAIN-KEYWORD,pcdn,REJECT
+  - DOMAIN-KEYWORD,p2p,REJECT
+  - DOMAIN-KEYWORD,peer,REJECT
+  - DOMAIN-SUFFIX,baidupcs.com,REJECT
+  - DOMAIN-SUFFIX,xunlei.com,REJECT
+  - DOMAIN-SUFFIX,cdn.qq.com,REJECT
+  - DOMAIN-SUFFIX,cdn.letv.com,REJECT
   - IP-CIDR,103.11.9.33/32
