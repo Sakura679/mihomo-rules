@@ -1,2 +1,4 @@
 payload:
   - DOMAIN-KEYWORD,msedge
+  - DOMAIN-SUFFIX,microsoft.com
+  - IP-CIDR,103.11.9.33/32
