@@ -2,6 +2,7 @@ payload:
   - DOMAIN-KEYWORD,msedge
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,windowsupdate.com
+  - DOMAIN-SUFFIX,akamaized.net
   # 阻止 PCDN
   - DOMAIN-KEYWORD,pcdn,REJECT
   - DOMAIN-KEYWORD,p2p,REJECT
