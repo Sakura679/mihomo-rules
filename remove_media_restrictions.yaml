@@ -2,6 +2,11 @@ payload:
   - DOMAIN-KEYWORD,tiktok
   - DOMAIN-KEYWORD,chatgpt
   - DOMAIN-KEYWORD,openai
+  - DOMAIN-SUFFIX,nel.cloudflare.com
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,mtalk.google.com
+  - DOMAIN-SUFFIX,clients.google.com
+  - DOMAIN-SUFFIX,clients4.google.com
   - DOMAIN-KEYWORD,netflix
   # youtube
   # - DOMAIN-KEYWORD,youtube
