@@ -1,11 +1,8 @@
 payload:
+  # 阻止 PCDN
   - AND,((NETWORK,UDP),(DST-PORT,443))
   - AND,((NETWORK,UDP),(DST-PORT,3478-3480))
   - AND,((NETWORK,UDP),(DST-PORT,5349-5350))
-  - DOMAIN-KEYWORD,msedge
-  - DOMAIN-SUFFIX,microsoft.com
-  - DOMAIN-SUFFIX,windowsupdate.com
-  # 阻止 PCDN
   - DOMAIN-KEYWORD,stun
   - DOMAIN-KEYWORD,turn
   - DOMAIN-KEYWORD,pcdn
@@ -15,4 +12,8 @@ payload:
   - DOMAIN-SUFFIX,xunlei.com
   - DOMAIN-SUFFIX,cdn.qq.com
   - DOMAIN-SUFFIX,cdn.letv.com
+
+  - DOMAIN-KEYWORD,msedge
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,windowsupdate.com
   - IP-CIDR,103.11.9.33/32
