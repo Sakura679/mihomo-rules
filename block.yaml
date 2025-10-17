@@ -1,4 +1,7 @@
 payload:
+  - AND,((NETWORK,UDP),(DST-PORT,443))
+  - AND,((NETWORK,UDP),(DST-PORT,3478-3480))
+  - AND,((NETWORK,UDP),(DST-PORT,5349-5350))
   - DOMAIN-KEYWORD,msedge
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,windowsupdate.com
