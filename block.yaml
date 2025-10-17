@@ -3,11 +3,13 @@ payload:
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,windowsupdate.com
   # 阻止 PCDN
-  - DOMAIN-KEYWORD,pcdn,REJECT
-  - DOMAIN-KEYWORD,p2p,REJECT
-  - DOMAIN-KEYWORD,peer,REJECT
-  - DOMAIN-SUFFIX,baidupcs.com,REJECT
-  - DOMAIN-SUFFIX,xunlei.com,REJECT
-  - DOMAIN-SUFFIX,cdn.qq.com,REJECT
-  - DOMAIN-SUFFIX,cdn.letv.com,REJECT
+  - DOMAIN-KEYWORD,stun
+  - DOMAIN-KEYWORD,turn
+  - DOMAIN-KEYWORD,pcdn
+  - DOMAIN-KEYWORD,p2p
+  - DOMAIN-KEYWORD,peer
+  - DOMAIN-SUFFIX,baidupcs.com
+  - DOMAIN-SUFFIX,xunlei.com
+  - DOMAIN-SUFFIX,cdn.qq.com
+  - DOMAIN-SUFFIX,cdn.letv.com
   - IP-CIDR,103.11.9.33/32
