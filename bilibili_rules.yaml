@@ -3,5 +3,5 @@ payload:
   - DOMAIN-KEYWORD,bilibili
   - DOMAIN-KEYWORD,bilicdn
   - DOMAIN-KEYWORD,biliapi
-  # bilibili直播
-  - DOMAIN-KEYWORD,bilivideo
+  # 番剧
+  - DOMAIN,upos-sz-mirrorcosov.bilivideo.com
