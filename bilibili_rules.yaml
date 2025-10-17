@@ -5,3 +5,5 @@ payload:
   - DOMAIN-KEYWORD,biliapi
   # 番剧
   - DOMAIN,upos-sz-mirrorcosov.bilivideo.com
+  # 视频
+  - DOMAIN,upos-sz-mirrorcosb.bilivideo.com
