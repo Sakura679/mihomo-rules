@@ -4,5 +4,5 @@ payload:
   - DOMAIN-KEYWORD,openai
   - DOMAIN-KEYWORD,netflix
   # youtube
-  # - DOMAIN-KEYWORD,youtube
-  # - DOMAIN-KEYWORD,googlevideo
+  - DOMAIN-KEYWORD,youtube
+  - DOMAIN-KEYWORD,googlevideo
