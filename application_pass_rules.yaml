@@ -1,2 +1,3 @@
-playload:
-  - UID,10010
+payload:
+  - PROCESS-NAME,SeasunGame.exe
+  # - UID,1001
