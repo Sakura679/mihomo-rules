@@ -7,6 +7,10 @@ https://raw.githubusercontent.com/Sakura679/mihomo-rules/refs/heads/main/bilibil
 ```
 
 ```
+https://raw.githubusercontent.com/Sakura679/mihomo-rules/refs/heads/main/bilibili_vedio_rules.yaml
+```
+
+```
 https://raw.githubusercontent.com/Sakura679/mihomo-rules/refs/heads/main/block.yaml
 ```
 
