@@ -1,2 +1,3 @@
 payload:
-  - 1
+  # bilibili直播
+  - DOMAIN-SUFFIX,bilivideo.com
