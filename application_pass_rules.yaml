@@ -1,3 +1,4 @@
 payload:
   - PROCESS-NAME,SeasunGame.exe
+  - PROCESS-NAME,com.dragonli.projectsnow.lhm
   # - UID,1001
