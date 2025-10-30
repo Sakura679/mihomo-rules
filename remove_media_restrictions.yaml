@@ -4,7 +4,7 @@ payload:
   - DOMAIN-KEYWORD,openai
   - DOMAIN-KEYWORD,netflix
   # youtube
-  - DOMAIN-KEYWORD,youtube
-  - DOMAIN-KEYWORD,googlevideo
+  # - DOMAIN-KEYWORD,youtube
+  # - DOMAIN-KEYWORD,googlevideo
   # bilibili直播
   # - DOMAIN-SUFFIX,bilivideo.com
