@@ -7,3 +7,5 @@ payload:
   - DOMAIN,upos-sz-mirrorcosov.bilivideo.com
   # 视频
   - DOMAIN,upos-sz-mirrorcosb.bilivideo.com
+  # bilibili直播
+  - DOMAIN-SUFFIX,bilivideo.com
