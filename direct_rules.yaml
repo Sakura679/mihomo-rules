@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-KEYWORD,ntdm
   - DOMAIN-KEYWORD,tyys
   - DOMAIN-KEYWORD,dytt
   - DOMAIN-KEYWORD,bf8bf
@@ -15,4 +16,11 @@ payload:
   - DOMAIN-KEYWORD,wyfkg
   - DOMAIN-KEYWORD,bvvvvvvv7f
   - DOMAIN-KEYWORD,fengbao
-  - DOMAIN-KEYWORD,ntdm
+  - DOMAIN-KEYWORD,lmm50
+
+  - DOMAIN,s.tiepi.top
+  - DOMAIN,vip.lz-cdn14.com
+  - DOMAIN,c1.rrcdnbf4.com
+
+  - IP-CIDR,38.47.100.214/32
+  
