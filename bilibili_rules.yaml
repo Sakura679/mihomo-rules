@@ -1,11 +1,16 @@
 payload:
   # bilibili
-  - DOMAIN-KEYWORD,bilibili
-  - DOMAIN-KEYWORD,bilicdn
-  - DOMAIN-KEYWORD,biliapi
+  # - DOMAIN-KEYWORD,bilibili
+  # - DOMAIN-KEYWORD,bilicdn
+  # - DOMAIN-KEYWORD,biliapi
+  - DOMAIN-SUFFIX,bilibili.com
+  - DOMAIN-SUFFIX,biliapi.net
+  
   # 番剧
-  - DOMAIN,upos-sz-mirrorcosov.bilivideo.com
+  # - DOMAIN,upos-sz-mirrorcosov.bilivideo.com
+  
   # 视频
-  - DOMAIN,upos-sz-mirrorcosb.bilivideo.com
+  # - DOMAIN,upos-sz-mirrorcosb.bilivideo.com
+  
   # bilibili直播
-  - DOMAIN-SUFFIX,bilivideo.com
+  # - DOMAIN-SUFFIX,bilivideo.com
