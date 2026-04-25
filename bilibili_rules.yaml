@@ -5,6 +5,7 @@ payload:
   # - DOMAIN-KEYWORD,biliapi
   - DOMAIN-SUFFIX,bilibili.com
   - DOMAIN-SUFFIX,biliapi.net
+  - DOMAIN-SUFFIX,hdslb.com
   
   # 番剧
   # - DOMAIN,upos-sz-mirrorcosov.bilivideo.com
