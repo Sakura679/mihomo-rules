@@ -12,6 +12,7 @@ payload:
   # ===== 米哈游 / HoYoverse =====
   - DOMAIN-KEYWORD,mihoyo,DIRECT
   - DOMAIN-KEYWORD,hoyoverse,DIRECT
+  - DOMAIN-KEYWORD,yuanshen
 
   # ===== TapTap =====
   - DOMAIN-SUFFIX,taptap.cn,DIRECT
@@ -28,7 +29,13 @@ payload:
   - DOMAIN-SUFFIX,sdo.com,DIRECT
 
   # ===== 西山居 =====
+  - DOMAIN-KEYWORD,snowbreak,DIRECT
+  - DOMAIN-KEYWORD,seasun,DIRECT
+  - DOMAIN-KEYWORD,skland,DIRECT
+  - DOMAIN-KEYWORD,xoyo,DIRECT
   - DOMAIN-SUFFIX,xoyo.com,DIRECT
+  - DOMAIN-KEYWORD,ks,DIRECT
+  - DOMAIN-KEYWORD,jx3,DIRECT
 
   # ===== 莉莉丝 =====
   - DOMAIN-SUFFIX,lilith.com,DIRECT
@@ -44,8 +51,6 @@ payload:
   - DOMAIN-KEYWORD,wlcdn
   - DOMAIN-KEYWORD,apple
 
-  - DOMAIN-KEYWORD,cbjq
-
   - DOMAIN,s.tiepi.top
   - DOMAIN,vip.lz-cdn14.com
   - DOMAIN,c1.rrcdnbf4.com
@@ -53,6 +58,4 @@ payload:
   - DOMAIN-SUFFIX,bilivideo.com
   - DOMAIN-SUFFIX,bilivideo.cn
   - DOMAIN-KEYWORD,upos
-
-  - IP-CIDR,38.47.100.214/32
   
