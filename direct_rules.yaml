@@ -1,4 +1,44 @@
 payload:
+  # ===== 腾讯游戏 =====
+  - DOMAIN-KEYWORD,tencent,DIRECT
+  - DOMAIN-KEYWORD,qqgame,DIRECT
+  - DOMAIN-SUFFIX,wegame.com.cn,DIRECT
+  - DOMAIN-SUFFIX,qq.com,DIRECT
+
+  # ===== 网易游戏 =====
+  - DOMAIN-KEYWORD,netease,DIRECT
+  - DOMAIN-SUFFIX,163.com,DIRECT
+
+  # ===== 米哈游 / HoYoverse =====
+  - DOMAIN-KEYWORD,mihoyo,DIRECT
+  - DOMAIN-KEYWORD,hoyoverse,DIRECT
+
+  # ===== TapTap =====
+  - DOMAIN-SUFFIX,taptap.cn,DIRECT
+  - DOMAIN-SUFFIX,taptap.com,DIRECT
+
+  # ===== 完美世界 =====
+  - DOMAIN-SUFFIX,wanmei.com,DIRECT
+  - DOMAIN-SUFFIX,pwrd.com,DIRECT
+
+  # ===== 巨人网络 =====
+  - DOMAIN-SUFFIX,ztgame.com,DIRECT
+
+  # ===== 盛大游戏 =====
+  - DOMAIN-SUFFIX,sdo.com,DIRECT
+
+  # ===== 西山居 =====
+  - DOMAIN-SUFFIX,xoyo.com,DIRECT
+
+  # ===== 莉莉丝 =====
+  - DOMAIN-SUFFIX,lilith.com,DIRECT
+
+  # ===== 鹰角网络 =====
+  - DOMAIN-KEYWORD,hypergryph,DIRECT
+
+  # ===== 国内游戏 UDP =====
+  - NETWORK,UDP,DIRECT
+  
   - DOMAIN-KEYWORD,bf8bf
   - DOMAIN-KEYWORD,mzm
   - DOMAIN-KEYWORD,wlcdn
