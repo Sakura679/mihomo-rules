@@ -45,30 +45,6 @@ payload:
 
   # ===== 国内游戏 UDP =====
   - NETWORK,UDP,DIRECT
-
-  # ===== 常见游戏服务器IP云（安全版）=====
-  - IP-CIDR,8.0.0.0/8,DIRECT,no-resolve
-  - IP-CIDR,13.0.0.0/8,DIRECT,no-resolve
-  - IP-CIDR,42.0.0.0/8,DIRECT,no-resolve
-  - IP-CIDR,43.0.0.0/8,DIRECT,no-resolve
-  - IP-CIDR,47.0.0.0/8,DIRECT,no-resolve
-  - IP-CIDR,49.0.0.0/8,DIRECT,no-resolve
-  - IP-CIDR,101.0.0.0/8,DIRECT,no-resolve
-  - IP-CIDR,103.0.0.0/8,DIRECT,no-resolve
-  - IP-CIDR,106.0.0.0/8,DIRECT,no-resolve
-  - IP-CIDR,110.0.0.0/8,DIRECT,no-resolve
-  - IP-CIDR,112.0.0.0/8,DIRECT,no-resolve
-  - IP-CIDR,113.0.0.0/8,DIRECT,no-resolve
-  - IP-CIDR,120.0.0.0/8,DIRECT,no-resolve
-  - IP-CIDR,121.0.0.0/8,DIRECT,no-resolve
-  - IP-CIDR,123.0.0.0/8,DIRECT,no-resolve
-  - IP-CIDR,124.0.0.0/8,DIRECT,no-resolve
-  - IP-CIDR,125.0.0.0/8,DIRECT,no-resolve
-  - IP-CIDR,140.0.0.0/8,DIRECT,no-resolve
-  - IP-CIDR,180.0.0.0/8,DIRECT,no-resolve
-  - IP-CIDR,183.0.0.0/8,DIRECT,no-resolve
-  - IP-CIDR,202.0.0.0/8,DIRECT,no-resolve
-  - IP-CIDR,203.0.0.0/8,DIRECT,no-resolve
   
   - DOMAIN-KEYWORD,bf8bf
   - DOMAIN-KEYWORD,mzm
