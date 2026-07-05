@@ -8,6 +8,7 @@ payload:
   - DOMAIN-KEYWORD,p2p
   - DOMAIN-KEYWORD,peer
   - DOMAIN-KEYWORD,msedge
+  - DOMAIN-KEYWORD,badnews
   
   - DOMAIN-SUFFIX,baidupcs.com
   - DOMAIN-SUFFIX,xunlei.com
