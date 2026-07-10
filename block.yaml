@@ -14,5 +14,4 @@ payload:
   - DOMAIN-SUFFIX,xunlei.com
   - DOMAIN-SUFFIX,cdn.qq.com
   - DOMAIN-SUFFIX,cdn.letv.com
-  - DOMAIN-SUFFIX,windowsupdate.com
   - IP-CIDR,103.11.9.33/32
