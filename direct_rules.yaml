@@ -4,8 +4,9 @@ payload:
   - DOMAIN-KEYWORD,wlcdn
   - DOMAIN-KEYWORD,apple
 
-  - DOMAIN-SUFFIX,bilivideo.com
-  - DOMAIN-SUFFIX,bilivideo.cn
+  # bilibil 视频/直播
+  # - DOMAIN-SUFFIX,bilivideo.com
+  # - DOMAIN-SUFFIX,bilivideo.cn
 
   - DOMAIN-SUFFIX,cycani.org
   - DOMAIN-SUFFIX,cycanime.com

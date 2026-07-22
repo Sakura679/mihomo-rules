@@ -4,11 +4,6 @@ payload:
   - DOMAIN-SUFFIX,biliapi.net
   - DOMAIN-SUFFIX,hdslb.com
   
-  # 番剧
-  # - DOMAIN,upos-sz-mirrorcosov.bilivideo.com
-  
-  # 视频
-  # - DOMAIN,upos-sz-mirrorcosb.bilivideo.com
-  
-  # bilibili直播
-  # - DOMAIN-SUFFIX,bilivideo.com
+  # bilibili 视频/直播
+  - DOMAIN-SUFFIX,bilivideo.com
+  - DOMAIN-SUFFIX,bilivideo.cn
