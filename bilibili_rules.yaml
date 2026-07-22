@@ -1,8 +1,5 @@
 payload:
   # bilibili
-  # - DOMAIN-KEYWORD,bilibili
-  # - DOMAIN-KEYWORD,bilicdn
-  # - DOMAIN-KEYWORD,biliapi
   - DOMAIN-SUFFIX,bilibili.com
   - DOMAIN-SUFFIX,biliapi.net
   - DOMAIN-SUFFIX,hdslb.com

@@ -15,3 +15,10 @@ payload:
   - DOMAIN-SUFFIX,cdn.qq.com
   - DOMAIN-SUFFIX,cdn.letv.com
   - IP-CIDR,103.11.9.33/32
+
+  # 屏蔽劣质 CDN
+  - DOMAIN-SUFFIX,mcdn.bilivideo.com
+  - DOMAIN-SUFFIX,mcdn.bilivideo.cn
+  - DOMAIN-SUFFIX,szbdyd.com
+  # 拒绝 HTTPDNS
+  - DOMAIN,httpdns.bilivideo.com
