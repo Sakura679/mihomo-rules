@@ -1,9 +1,0 @@
-payload:
-  # bilibili
-  - DOMAIN-SUFFIX,bilibili.com
-  - DOMAIN-SUFFIX,biliapi.net
-  - DOMAIN-SUFFIX,hdslb.com
-  
-  # bilibili 视频/直播
-  - DOMAIN-SUFFIX,bilivideo.com
-  - DOMAIN-SUFFIX,bilivideo.cn
